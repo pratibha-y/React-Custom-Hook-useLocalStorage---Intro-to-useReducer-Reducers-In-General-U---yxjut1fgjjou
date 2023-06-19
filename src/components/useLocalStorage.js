@@ -15,4 +15,4 @@ const useLocalStorage = (stateVar, value) => {
   return [newValue, updateValue];
 };
 
-export default useLocalSto
+export default useLocalStorage;
